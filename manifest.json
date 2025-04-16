@@ -1,0 +1,15 @@
+
+{
+  "name": "The Hub Visitor Form",
+  "short_name": "VisitorForm",
+  "start_url": "/hub-visitor-pwa/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [{
+    "src": "/hub-visitor-pwa/icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }]
+}
